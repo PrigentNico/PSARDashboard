@@ -27,4 +27,20 @@ PSAR Dashboard is based on PoshUD.
 
 Universal Dashboard is a cross-platform PowerShell module for developing and hosting web-based, interactive dashboards.  [https://www.poshud.com/Home](https://www.poshud.com/Home)
 
-You must have a **valid** PoshUD license in order to run PSAR Dashboard!
+You must have a **valid** PoshUD license in order to run PSAR Dashboard.
+
+**How to Run PSAR Dashboard?**
+
+Before running PSAR Dashboard, you must install the PoshUD PowerShell Module.
+
+    Install-Module  UniversalDashboard
+
+More information here: http://get-cmd.com/?p=4623
+
+Now, just run:
+
+     .\PSarDashboard.ps1
+
+Then you must open the your web browser and type:
+
+> http://localhost:1002
