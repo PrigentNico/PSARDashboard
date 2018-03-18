@@ -41,6 +41,6 @@ Now, just run:
 
      .\PSarDashboard.ps1
 
-Then you must open the your web browser and type:
+Then you must open your web browser and type:
 
 > http://localhost:1002
