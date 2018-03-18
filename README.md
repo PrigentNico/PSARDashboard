@@ -3,7 +3,7 @@ PowerShell Azure Reporting Dashboard
 
 This dashboard will display all the information about your Azure subscription:
 
--Cost Consumption Usage
+-Cost Consumption Usage < /br>
 -Virtual Machines usage
 -Networks usage
 -Storages usage
